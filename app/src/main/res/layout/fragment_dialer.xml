@@ -1,0 +1,21 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context="com.example.huaanhhong.chattest.Linphone.DialerFragment">
+
+   <EditText
+       android:gravity="center"
+       android:id="@+id/edt_mobilecall"
+       android:layout_width="match_parent"
+       android:layout_height="40dp"
+       android:text="+8422446688"/>
+   <Button
+       android:id="@+id/btn_call"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:text="call"/>
+
+</LinearLayout>

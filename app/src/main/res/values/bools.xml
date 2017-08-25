@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="disable_every_log">false</bool>
+    <bool name="enable_push_id">true</bool>
+    <bool name="use_linphonecore_ringing">false</bool>
+    <bool name="kill_service_with_task_manager">true</bool>
+    <bool name="disable_all_security_features_for_markets">false</bool>
+
+    /////////////////moi them///////////////////////
+    <bool name="forbid_self_call">false</bool>
+    <bool name="allow_transfers">true</bool>
+    <bool name="call_last_log_if_adress_is_empty">true</bool>
+    <bool name="auto_answer_calls">false</bool>
+    <bool name="allow_ringing_while_early_media">true</bool>
+    <bool name="automatically_start_intercepted_outgoing_gsm_call">true</bool>
+    <bool name="isTablet">false</bool>
+
+</resources>

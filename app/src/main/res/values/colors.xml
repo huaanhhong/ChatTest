@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="coloredit">#e4e6dd</color>
+    <color name="colorrong">#00ffffff</color>
+    <color name="background">#b6b6b6</color>
+    <color name="colortoolbar">#403d3d</color>
+    <color name="textfacebook">#13781d</color>
+    <color name="dialog">#c4c4c4</color>
+
+
+
+    <color name="colorA">#FF075E54</color>
+    <color name="colorB">#000000</color>
+    <color name="colorC">#444444</color>
+    <color name="colorD">#808080</color>
+    <color name="colorE">#c4c4c4</color>
+    <color name="colorF">#e1e1e1</color>
+    <color name="colorG">#f3f3f3</color>
+    <color name="colorH">#ffffff</color>
+    <color name="colorI">#ff0000</color>
+    <color name="colorJ">#ffa645</color>
+    <color name="colorK">#3eb5c0</color>
+    <color name="colorL">#96c11f</color>
+
+    <color name="transparent">#00000000</color>
+    <color name="colorIndivateTab">#b3e26b</color>
+</resources>
